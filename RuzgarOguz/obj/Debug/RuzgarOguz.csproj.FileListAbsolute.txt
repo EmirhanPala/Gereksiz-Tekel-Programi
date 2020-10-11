@@ -1,0 +1,16 @@
+C:\Users\gs_em\source\repos\RuzgarOguz\RuzgarOguz\bin\Debug\RuzgarOguz.exe.config
+C:\Users\gs_em\source\repos\RuzgarOguz\RuzgarOguz\bin\Debug\RuzgarOguz.exe
+C:\Users\gs_em\source\repos\RuzgarOguz\RuzgarOguz\bin\Debug\RuzgarOguz.pdb
+C:\Users\gs_em\source\repos\RuzgarOguz\RuzgarOguz\obj\Debug\RuzgarOguz.csprojAssemblyReference.cache
+C:\Users\gs_em\source\repos\RuzgarOguz\RuzgarOguz\obj\Debug\RuzgarOguz.Form1.resources
+C:\Users\gs_em\source\repos\RuzgarOguz\RuzgarOguz\obj\Debug\RuzgarOguz.girdicikti.resources
+C:\Users\gs_em\source\repos\RuzgarOguz\RuzgarOguz\obj\Debug\RuzgarOguz.magazaekle.resources
+C:\Users\gs_em\source\repos\RuzgarOguz\RuzgarOguz\obj\Debug\RuzgarOguz.magazalistele.resources
+C:\Users\gs_em\source\repos\RuzgarOguz\RuzgarOguz\obj\Debug\RuzgarOguz.Properties.Resources.resources
+C:\Users\gs_em\source\repos\RuzgarOguz\RuzgarOguz\obj\Debug\RuzgarOguz.csproj.GenerateResource.cache
+C:\Users\gs_em\source\repos\RuzgarOguz\RuzgarOguz\obj\Debug\RuzgarOguz.csproj.CoreCompileInputs.cache
+C:\Users\gs_em\source\repos\RuzgarOguz\RuzgarOguz\obj\Debug\RuzgarOguz.exe
+C:\Users\gs_em\source\repos\RuzgarOguz\RuzgarOguz\obj\Debug\RuzgarOguz.pdb
+C:\Users\gs_em\source\repos\RuzgarOguz\RuzgarOguz\obj\Debug\RuzgarOguz.kasa.resources
+C:\Users\gs_em\source\repos\RuzgarOguz\RuzgarOguz\obj\Debug\RuzgarOguz.gunlukdetaylar.resources
+C:\Users\gs_em\source\repos\RuzgarOguz\RuzgarOguz\obj\Debug\RuzgarOguz.gunlukharcamalar.resources
