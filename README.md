@@ -1,6 +1,6 @@
 # Gereksiz Tekel Programi
  
-İstek üzerine arkadaşıma yapmış olduğum gereksiz bir tekel otomasyon programı
+ADI ÜSTÜNDE GEREKSİZ TEKEL PROGRAMI
 
 görüntü
 
